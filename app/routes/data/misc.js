@@ -1,4 +1,5 @@
 // misc.js
+// added comment - change for 2nd branch
 var winston = require('winston');
 
 module.exports = function(config, db, logger, router, aws) {
