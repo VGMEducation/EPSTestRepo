@@ -34,7 +34,7 @@ config.stormpath.EXPRESS_SECRET="ZKAKMSLKWMDOKMEFWOKNFONFKFNOFKMWEFOKWMEFWEFW";
 // Stormpath - Dev
 //config.stormpath.STORMPATH_APP_HREF="https://api.stormpath.com/v1/applications/5304GoBLzltgN1ZHtUJWqP";
 
-
+// added comment for testing of creating a branch
 
 config.aws.accessKey = "AKIAJB4SNNXFHBW6QTCA";
 config.aws.secretAccessKey = "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";
