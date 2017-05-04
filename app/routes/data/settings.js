@@ -1,4 +1,5 @@
     // settings.js
+// added comment - change for 3rd branch
 var winston = require('winston');
 
 module.exports = function(config, db, logger, router, aws) {
