@@ -1,0 +1,33 @@
+{
+  "name": "ExecutionTrail",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "aws-sdk": "*",
+    "bluebird": "^3.4.1",
+    "body-parser": "*",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "^1.13.0",
+    "http-post": "^0.1.1",
+    "method-override": "*",
+    "mongodb": "^2.0.49",
+    "mongoose": "^4.2.8",
+    "njwt": "^0.2.3",
+    "nodemailer": "^2.2.1",
+    "passport": "^0.3.0",
+    "passport-stormpath": "^0.2.4",
+    "path": "*",
+    "request": "^2.65.0",
+    "sendgrid": "^1.9.2",
+    "static-favicon": "*",
+    "stormpath": "^0.13.3",
+    "uuid": "*",
+    "winston": "*"
+  }
+}

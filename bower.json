@@ -1,0 +1,31 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.7",
+    "angular-route": "latest",
+    "angular-sanitize": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-scroll-glue": "~2.0.6",
+    "angular-local-storage": "~0.2.3",
+    "angular-jwt": "~0.0.9",
+    "angular-ui-router": "~0.2.15",
+    "angular-filter": "^0.5.8",
+    "angular-scroll": "^1.0.0",
+    "angular-bootstrap": "^1.3.0",
+    "angular-spinner": "~0.8.0",
+    "angular-animate": "~1.4.9",
+    "ngstorage": "^0.3.10",
+    "ng-csv": "~0.3.6",
+    "table-export": "*",
+    "jspdf-plugins": "jsPDF-plugins#*",
+    "textAngular": "^1.5.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "angular-signature": "^0.1.7",
+    "signature_pad": "^1.5.2",
+    "pdfmake": "^0.1.20",
+    "html2canvas": "^0.4.1",
+    "angular-material": "^1.0.6"
+  }
+}
